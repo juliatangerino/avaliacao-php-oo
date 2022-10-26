@@ -1,10 +1,10 @@
 <?php
 
 class DataBaseService {
-    public $servername = "database";
-    public $username = "root";
-    public $password = "301122";
-    public $dbname = "cadastro";
+    public $servername = "";
+    public $username = "";
+    public $password = "";
+    public $dbname = "";
     public $conn;
 
     public function __construct()
