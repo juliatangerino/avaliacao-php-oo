@@ -1,12 +1,11 @@
 <div  align="center">
 	<h1>Avaliação desenvolvimento web - PHP</h3>
-	</code>
 </div>
 
 <div  align="center">
 	<p>Criando cadastro de cliente, utilizando PHP orientado a objetos e mySQL. Para esse projeto foi realizada a criação de uma <strong> dashboard </strong> para o acompanhamento de dados e métricas! ✍🏻
 	</p>
-	<code>Professor responsável: <a href="https://github.com/orlandosaraivajr">Orlando Saraiva</a>
+	<code>Professor responsável: <a href="https://github.com/orlandosaraivajr">Orlando Saraiva</a> </code>
 </div>
 
 <div  align="center">
